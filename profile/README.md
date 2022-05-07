@@ -1,4 +1,4 @@
-![banner](/images/banner.png)
+![banner](\images\banner.png)
 ## Welcome
 There is an organization made to help Linux beginners start, Here you will find most of the repositories that you will need.
 
