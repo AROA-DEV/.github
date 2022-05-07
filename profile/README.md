@@ -7,7 +7,9 @@ Keep in mind that this is by no means a professional cybersecurity team nor an e
 __ Some Rules Have To be followed __
 
 1.We will allow any kind of knowledge, except if this is expressed not to help people but to harm them.
+
 2.The discusion must be respectfull and help full
+
 3.If you modify any of the repositries from other creators please folow the licenses
 
 
