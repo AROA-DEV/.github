@@ -4,7 +4,7 @@ There is an organization made to help Linux beginners start, Here you will find 
 
 Keep in mind that this is by no means a professional cybersecurity team nor an expert team on any of the topics. We are also Beginners and are also trying to expand our college and are trying to build a community that will also do so by contributing their salvage in educated discussions.
 
-__ Some Rules Have To be followed __
+Some Rules Have To be followed
 
 1.We will allow any kind of knowledge, except if this is expressed not to help people but to harm them.
 
