@@ -1,4 +1,4 @@
-![banner](/profile/images/banner.png)
+![banner](/profile/images/AROA - DEV ( banner ).png)
 # Welcome
 There is an organization made to help Linux beginners start, Here you will find most of the repositories that you will need.
 our official webpage: https://aroa-dev.github.io/
